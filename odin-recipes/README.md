@@ -1,0 +1,1 @@
+Simply site built using HTML, that contains three recipes. Project for the [https://www.theodinproject.com/dashboard](ODIN project).  
